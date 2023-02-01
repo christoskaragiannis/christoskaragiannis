@@ -7,7 +7,14 @@
 * Python
 * Java
 
+## 💻 Programming skills
+ * Languages: HTML,CSS,JS,Python,Java
 
+## 📜 Interests in Computer Science
+* Web Development
+* Machine learning/Data Science
+* Cyber Security
+* Networks
 <!--
 **christoskaragiannis/christoskaragiannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
