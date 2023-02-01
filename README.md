@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+    My name is Christos 😄
+    Currently, Im Computer Science student at Athens University of Economics and Business  
 <!--
 **christoskaragiannis/christoskaragiannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
