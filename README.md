@@ -1,8 +1,11 @@
 ### Hi there 👋
     My name is Christos 😄
     Currently, Im Computer Science student at Athens University of Economics and Business  
-    📖 I'm currently learning and trying to improve:
-
+    
+## 📖 I'm currently learning and trying to improve:
+* Javascript
+* Python
+* Java
 
 
 <!--
