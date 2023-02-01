@@ -1,6 +1,17 @@
 ### Hi there 👋
     My name is Christos 😄
     Currently, Im Computer Science student at Athens University of Economics and Business  
+    📖 I'm currently learning and trying to improve:
+
+* HTML,CSS,Javascript
+* Python
+* Java
+
+
+## 💻 Programming skills 
+* Languages : Java,JS,HTML,CSS,Python
+>
+
 <!--
 **christoskaragiannis/christoskaragiannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
