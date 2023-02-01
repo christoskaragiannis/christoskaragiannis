@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
     My name is Christos 😄
     Currently, Im Computer Science student at Athens University of Economics and Business  
     
