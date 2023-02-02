@@ -1,6 +1,6 @@
 ## Hi there 👋
     My name is Christos 😄
-    Currently, Im Computer Science student at Athens University of Economics and Business  
+    Currently, I'm a Computer Science student at Athens University of Economics and Business  
     
 ## 📖 I'm currently learning and trying to improve:
 * Javascript
