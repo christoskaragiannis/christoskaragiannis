@@ -3,12 +3,13 @@
     Currently, I'm a Computer Science student at Athens University of Economics and Business  
     
 ## 📖 I'm currently learning and trying to improve:
+* React
 * Javascript
 * Python
 * Java
 
 ## 💻 Programming skills
- * Languages: HTML,CSS,JS,Python,Java
+ * Languages: React,JS,Python,Java
 
 ## 📜 Interests in Computer Science
 * Web Development
