@@ -13,7 +13,7 @@
 
 ## 📜 Interests in Computer Science
 * Web Development
-* Machine learning/Data Science
+* Data Science/ Machine Learning/ Deep Learning
 * Cyber Security
 * Networks
 <!--
