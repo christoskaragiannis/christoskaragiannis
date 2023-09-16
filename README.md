@@ -9,7 +9,8 @@
 * Java
 
 ## 💻 Programming skills
- * Languages: React, Python, Java
+ * Languages: Javascript, Python, Java
+ * Frameworks: React.js
 
 ## 📜 Interests in Computer Science
 * Web Development
