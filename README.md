@@ -13,7 +13,7 @@
 
 ## 📜 Interests in Computer Science
 * Web Development
-* *UI/UX Design
+* UI/UX Design
 * Data Science/ Machine Learning/ Deep Learning
 * Cyber Security
 * Networks
