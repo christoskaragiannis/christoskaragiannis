@@ -1,6 +1,7 @@
 ## Hi there 👋
     My name is Christos 😄
-    I recently obtained my BSc in Computer Science at Athens University of Economics and Bussiness and I am open to job opportunities.
+    I recently obtained my BSc in Computer Science at Athens University of Economics and Bussiness 
+    and I am open to job opportunities.
     
 ## 📖 I'm currently learning and trying to improve:
 * React
